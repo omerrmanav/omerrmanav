@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @omerrmanav
-- 👀 I’m learning and interested in Java
-- 📫 How to reach me : https://www.linkedin.com/in/%C3%B6mer-manav-391467243
+
